@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch01-first/ch01-first.iml" filepath="$PROJECT_DIR$/ch01-first/ch01-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02-inmemory/ch02-inmemory.iml" filepath="$PROJECT_DIR$/ch02-inmemory/ch02-inmemory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03-inmemory-role/ch03-inmemory-role.iml" filepath="$PROJECT_DIR$/ch03-inmemory-role/ch03-inmemory-role.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04-jdbc/ch04-jdbc.iml" filepath="$PROJECT_DIR$/ch04-jdbc/ch04-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05-memoryUserDetails/ch05-memoryUserDetails.iml" filepath="$PROJECT_DIR$/ch05-memoryUserDetails/ch05-memoryUserDetails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06-jdbcUserDetailsService/ch06-jdbcUserDetailsService.iml" filepath="$PROJECT_DIR$/ch06-jdbcUserDetailsService/ch06-jdbcUserDetailsService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07-user-role/ch07-user-role.iml" filepath="$PROJECT_DIR$/ch07-user-role/ch07-user-role.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08-user-role-ajax/ch08-user-role-ajax.iml" filepath="$PROJECT_DIR$/ch08-user-role-ajax/ch08-user-role-ajax.iml" />
+    </modules>
+  </component>
+</project>

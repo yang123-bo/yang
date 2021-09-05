@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ch04-jdbc" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ch01-first/pom.xml" />
+        <option value="$PROJECT_DIR$/ch02-inmemory/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03-inmemory-role/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/ch05-memoryUserDetails/pom.xml" />
+        <option value="$PROJECT_DIR$/ch06-jdbcUserDetailsService/pom.xml" />
+        <option value="$PROJECT_DIR$/ch07-user-role/pom.xml" />
+        <option value="$PROJECT_DIR$/ch08-user-role-ajax/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
